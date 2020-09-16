@@ -1,7 +1,7 @@
 ![made-with-React](https://img.shields.io/badge/Made%20with-REACT-1f425f.svg)
 ![made-with-HTML](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)
 ![made-with-CSS](https://img.shields.io/badge/Made%20with-CSS-1f425f.svg)
-![made-with-ALAN](https://img.shields.io/badge/Made%20with-ALAN%AI-1f425f.svg)
+![made-with-ALAN](https://img.shields.io/badge/Made%20with-ALAAI-1f425f.svg)
 ![made-with-MATERIAL](https://img.shields.io/badge/Made%20with-MATERIAL%UI-1f425f.svg)
 ![made-with-CLASSNAMES](https://img.shields.io/badge/Made%20with-CLASS%NAMES-1f425f.svg)
 ![made-with-WORDSTONUMBERS](https://img.shields.io/badge/Made%20with-WORDS%TO%NUMBERS-1f425f.svg)
