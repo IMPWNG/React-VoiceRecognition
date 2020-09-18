@@ -5,7 +5,7 @@
 ![made-with-MATERIAL](https://img.shields.io/badge/Made%20with-MATERIAL%20UI-1f425f.svg)
 ![made-with-CLASSNAMES](https://img.shields.io/badge/Made%20with-CLASS%20NAMES-1f425f.svg)
 ![made-with-WORDSTONUMBERS](https://img.shields.io/badge/Made%20with-WORDS%20TO%20NUMBERS-1f425f.svg)
-![IN PROGRESS](https://img.shields.io/badge/PROJECT-IN%20PROGRESS-yellow)
+![DONE](https://img.shields.io/badge/PROJECT-DONE-SUCCESS)
 
 
 
@@ -21,3 +21,7 @@ Follow the progression of the APP
 ### `17/09/2020`
 
 - 33:25 https://www.youtube.com/watch?v=rqw3OftE5sA&t=4088s&ab_channel=JavaScriptMastery - I had a big problem with the API call.. forgot an S.
+
+### `18/09/2020`
+
+- Done
