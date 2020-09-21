@@ -6,6 +6,7 @@
 
 ## Run the App 
 
+- Yarn start
 
 
 
