@@ -1,10 +1,19 @@
 import React, { useState, useEffect } from 'react';
+
+
 import alanBtn from '@alan-ai/alan-sdk-web';
 
 import wordsToNumbers from 'words-to-numbers';
 
-import NewsCards from './components/NewsCards/NewsCards';
-import useStyles from './styles.js'
+import HeaderApp from './components/Header/Header';
+
+
+import useStyles from './styles.js';
+import 'semantic-ui-css/semantic.min.css';
+
+
+
+
 
 
 
@@ -40,11 +49,12 @@ const App = () => {
 
     return (
         <div>
-            <div className={classes.logoContainer}>
-                <img src="https://alan.app/voice/images/previews/preview.jpg" className={classes.alanLogo} alt="logo" />
-            </div>
-                <NewsCards articles={newsArticles} activeArticle={activeArticle} />
-                <h1>hey</h1>
+       
+
+            
+               
+                <HeaderApp />
+               
         </div>
     );
 };
