@@ -1,22 +1,8 @@
-import React from 'react';
-import PropTypes from "prop-types";
-import Link from 'gatsby-link';
-
-const Layout = ({children}) => {
-    return (
-        <>
-            <nav>
-                <Link to='/'>Home</Link>
-                <Link to='/app'>App</Link>
-                <Link to='/marketing'>Marketing</Link>
-            </nav>
-             <main>
-                {children}
-            </main>
-        </>
-    )   
-}
+import React from "react";
+import "./layout.css";
+import Header from '../components/header';
+import Footer from '../components/footer';
+import AlanBtn from '../components/alanbtn';
 
 
-
-export default Layout;
+export default ({ children }) => <div><Header />{children}<Footer /><AlanBtn /></div>

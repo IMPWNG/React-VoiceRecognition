@@ -11,10 +11,10 @@ const infoCards = [
     { color: '#283593', title: 'News by Sources', info: 'CNN, Wired, BBC News, Time, IGN, Buzzfeed, ABC News...', text: 'Give me the news from CNN' },
   ];
 
-const News = ({ articles, activeArticle }) => {
+const NewsCards = ({ location, articles, activeArticle }) => {
     const classes = useStyles();
 
-if (!articles.length) {
+if (!articles) {
     return (
       <Grow in>
         <Grid className={classes.container} container alignItems="stretch" spacing={3}>
@@ -46,4 +46,4 @@ if (!articles.length) {
     );
 };
 
-export default News;
+export default NewsCards;
